@@ -29,9 +29,10 @@ Ensure SDL2 and SDL_TTF are both installed on your system.
 
 
 
-Whilst in the build folder run cmake ../src
-
-Run with ./visual_sort
+Whilst in the build folder run the following
+cmake ../src
+make
+./visual_sort
 
 
 To change number of elements in each array, change the value in the defs.h file
