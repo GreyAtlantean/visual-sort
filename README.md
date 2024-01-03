@@ -36,8 +36,15 @@ To change number of elements in each array, change the value in the defs.h file
 
 ### Screenshots
 
+![Unsorted Array](/imgs/unsorted150.png?raw=true "Unsorted 150 elements")
+
+![Partially sorted Array](/imgs/partialsort150.png?raw=true "Partially Sorted 150 elements")
+
+![Sorted Array](/imgs/sorted150.png?raw=true "Sorted 150 elements")
+
+
 ![Unsorted Array](/imgs/Unsorted.png?raw=true "Unsorted")
 
-![Partially sorted Array](/imgs/partialsort.png?raw=true "Unsorted")
+![Partially Sorted Array](/imgs/partialsort.png?raw=true "Partially sorted")
 
-![Sorted Array](/imgs/sorted.png?raw=true "Unsorted")
+![Sorted Array](/imgs/sorted.png?raw=true "Sorted")
