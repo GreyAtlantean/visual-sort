@@ -29,9 +29,12 @@ Ensure SDL2 and SDL_TTF are both installed on your system.
 
 
 
-Whilst in the build folder run the following
+Whilst in the build folder run the following:
+
 cmake ../src
+
 make
+
 ./visual_sort
 
 
