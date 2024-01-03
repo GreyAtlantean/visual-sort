@@ -18,6 +18,8 @@ D - toggles having a delay at the end of each frame
 
 [ and ] - decreases/increases the number of steps taken each frame
 
+ESQ - Quit the program
+
 
 ### Compilation
 
