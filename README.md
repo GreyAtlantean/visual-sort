@@ -31,7 +31,7 @@ Ensure SDL2 and SDL_TTF are both installed on your system.
 
 Whilst in the build folder run the following:
 
-cmake ../src
+cmake ../src/CMakeLists.txt
 
 make
 
